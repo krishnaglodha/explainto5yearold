@@ -1,6 +1,11 @@
 site_name: Explained to 5 year old
 theme:
   name: material
+  palette:
+    primary: light blue
+  logo: ./assets/logo.png
+  favicon: ./assets/logo.png
+  
   features:
     - content.code.copy
     - navigation.tabs
@@ -9,3 +14,16 @@ nav:
     - Home: index.md
     - HTML : 
       - html/index.md
+plugins:
+    - search
+repo_url: https://github.com/krishnaglodha/explainto5yearold
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/krishnaglodha
+    - icon : fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/krishnaglodha/
+    - icon : fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCwWQRgxtYxUZHSPB5JKjNIA
+copyright: Copyright &copy; 2023 Krishna G. Lodha
+
