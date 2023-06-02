@@ -1,0 +1,11 @@
+site_name: Explained to 5 year old
+theme:
+  name: material
+  features:
+    - content.code.copy
+    - navigation.tabs
+    - navigation.tabs.sticky
+nav:
+    - Home: index.md
+    - HTML : 
+      - html/index.md
