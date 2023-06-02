@@ -19,3 +19,7 @@ As someone who studied Civil Engineering as Bachelor's , Web development is defi
 
 The whole idea of this project is to allow users to understand the core logic behind various concepts. So when you are starting to learn something new , this will be a good place to checkout the core concept before starting to code in specifc programming language just because it is trending 📈 
 
+
+## I want to help
+
+I'm always looking for like minded people to jump in and help in the project. If you think you can contribute to videos, blogs, topic, etc. Please write me at me@krishnaglodha.com 
