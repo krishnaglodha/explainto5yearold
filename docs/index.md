@@ -22,4 +22,4 @@ The whole idea of this project is to allow users to understand the core logic be
 
 ## I want to help
 
-I'm always looking for like minded people to jump in and help in the project. If you think you can contribute to videos, blogs, topic, etc. Please write me at me@krishnaglodha.com 
+I'm always looking for like minded people to jump in and help in the project. If you think you can contribute to videos, blogs, topic, etc. Please write me at me@krishnaglodha.com  or connect on [twitter](https://twitter.com/krishnaglodha)
