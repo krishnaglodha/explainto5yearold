@@ -15,6 +15,12 @@ Even after knowing that internet is flooded with videos, blogs, live trainings r
 
 As someone who studied Civil Engineering as Bachelor's , Web development is definitely something I wanted to pursue with the combination of <i> Geography </i>
 
+[YouTube](https://www.youtube.com/channel/UCwWQRgxtYxUZHSPB5JKjNIA)
+
+[Twitter](https://twitter.com/explainto5year)
+
+
+
 ## How do I get started
 
 The whole idea of this project is to allow users to understand the core logic behind various concepts. So when you are starting to learn something new , this will be a good place to checkout the core concept before starting to code in specifc programming language just because it is trending 📈 
