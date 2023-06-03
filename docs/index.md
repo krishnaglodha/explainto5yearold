@@ -1,11 +1,11 @@
-# How can I get in development?
-## I'm not from computer background? 
+# How can I create career in web development?
 
-This was me asking few of my friends who were doing good as a developer, when I started my journey. You'll find tons of programming tutorials, videos, bootcamps, etc. about how to get started practically. These all will help you perform your job better or make you familiar with the latest programming trends, jargons, and use cases. 
+World is evolving at god speed 💨 , almost everyday we are waking up and reading about new AI models, ML Algorithms, Web frameworks, databases, etc. Because of these the application of Computers as hardwares 🛠️ and softwares 💻  are now cross domains. Almost all industries are now using computers ranging from finance to farming. Thus it is obvious that the workforce is always in demand.
+
 
 ## But
 
-If you look at the pace in which programming is evolving, it's a *god speed*. It's almost impossible for anyone doesn't matter if he/she is newbie or has 15 years experience, no one can say they are master of even a single programming language. New packages, frameworks, etc. are popping up everyday making you question the choices you made for a project few months back questionable. If you are one of those, don't worry, every one is in same ⛵ .
+We also here massive layoff news from the companies who are making revenues in $Billions every year. This again makes people think whether this is just another dot com bubble. If you look at software engineers, the good ones, people who understand the logic behind what is happening and why, they are always in demand. Because learning a programming language or framework can be just a couple of weeks of work. But understanding how computers work internally and understand it to create cleaner, fast code will make you sustain the bad days as well.
 
 ## Why this
 
