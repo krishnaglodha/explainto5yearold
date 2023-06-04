@@ -50,12 +50,9 @@ nav:
     
     - Frontend : 
       - Frontend/index.md
-      - HTML : 
-        - Frontend/html/index.md
-      - CSS : 
-        - Frontend/css/index.md
-      - JavaScript : 
-        - Frontend/JavaScript/index.md
+      - Frontend/html.md
+      - Frontend/css.md
+      - Frontend/JavaScript.md
     - Database : 
       - Database/index.md
     - Backend : 
